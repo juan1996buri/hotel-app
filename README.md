@@ -40,6 +40,10 @@
   - ejecucion
     
   npm run dev
-   
+
+# Ilustracion de la base de datos 
+
+<img src="https://firebasestorage.googleapis.com/v0/b/chat-app-9af2b.appspot.com/o/imagen_2024-05-17_054731000.png?alt=media&token=7e9f0a76-0747-4972-8f3f-7568c8fec4e1" />
+  
   
   
