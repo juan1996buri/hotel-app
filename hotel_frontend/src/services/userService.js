@@ -2,6 +2,7 @@ import axios from "axios";
 
 const apiServerUrl = import.meta.env.VITE_APP_APIURL;
 
+console.log(apiServerUrl);
 export const findAllUsers = async () => {
   return await axios.get(`${apiServerUrl}/users`);
 };
