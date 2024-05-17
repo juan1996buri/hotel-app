@@ -1,6 +1,6 @@
 
 
-# tecnologias utilizadas en el proyecto
+# Tecnologias utilizadas en el proyecto
  - FRONTEND
    
    reactjs
@@ -42,6 +42,8 @@
   npm run dev
 
 # Ilustracion de la base de datos 
+
+- A partir de la tabla que me fue entregada en la descripcion del enunciado, decidí diseñar una base de datos que cumpla con los requisitos establecidos
 
 <img src="https://firebasestorage.googleapis.com/v0/b/chat-app-9af2b.appspot.com/o/imagen_2024-05-17_054731000.png?alt=media&token=7e9f0a76-0747-4972-8f3f-7568c8fec4e1" />
   
